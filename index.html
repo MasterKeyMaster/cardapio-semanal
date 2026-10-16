@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#285d4c">
+  <meta name="description" content="Consulte os alimentos e as porções do cardápio por dia e refeição.">
+  <title>Cardápio da semana</title>
+  <link rel="icon" type="image/svg+xml" href="./icone.svg">
+  <link rel="stylesheet" href="./estilo.css">
+  <script src="./cardapio.js" defer></script>
+  <script src="./app.js" defer></script>
+</head>
+<body>
+  <main class="app">
+    <header class="intro screen-only">
+      <p class="eyebrow">CARDÁPIO DA SEMANA</p>
+      <h1>O que vou preparar?</h1>
+      <p class="lead">Escolha o dia e abra só a refeição que precisa.</p>
+    </header>
+    <section class="controls screen-only" aria-label="Escolher o dia e a refeição">
+      <div class="day-controls">
+        <button id="previous" class="arrow" aria-label="Dia anterior" type="button">←</button>
+        <div class="day-field"><label for="day">Dia da semana</label><select id="day"></select></div>
+        <button id="next" class="arrow" aria-label="Próximo dia" type="button">→</button>
+      </div>
+      <fieldset class="meal-controls"><legend>O que deseja ver?</legend><div id="meal-options" class="meal-options"></div></fieldset>
+    </section>
+    <section class="paper" aria-labelledby="selection-title">
+      <header class="selection-heading">
+        <div><p class="eyebrow">SEU CARDÁPIO</p><h2 id="selection-title">Carregando cardápio…</h2><p id="selection-info" class="muted"></p></div>
+        <button id="print" class="print-button screen-only" type="button">Imprimir seleção</button>
+      </header>
+      <div id="selection" aria-live="polite"></div>
+      <footer class="paper-footer"><p>Pesos dos alimentos prontos em <strong>gramas</strong>; líquidos em <strong>mL</strong>.</p><p id="updated"></p></footer>
+    </section>
+    <footer class="app-footer screen-only">A seleção muda a visualização, sem alterar as porções do cardápio.</footer>
+    <noscript><p class="error">Ative o JavaScript do navegador para escolher o dia e a refeição.</p></noscript>
+  </main>
+</body>
+</html>
