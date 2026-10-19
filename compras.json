@@ -1,0 +1,457 @@
+{
+  "gerada_em": "2026-10-19",
+  "cardapio_data": "2026-10-15",
+  "pessoas": 1,
+  "dias": 7,
+  "itens": [
+    {
+      "categoria": "Hortifruti",
+      "ids": [
+        "banana_prata"
+      ],
+      "nome": "Banana-prata",
+      "comprar": "12 unidades",
+      "consumo_quantidade": 480.0,
+      "consumo_unidade": "g",
+      "consumo": "480 g"
+    },
+    {
+      "categoria": "Hortifruti",
+      "ids": [
+        "uva_italia"
+      ],
+      "nome": "Uva Itália",
+      "comprar": "100 g",
+      "consumo_quantidade": 70.0,
+      "consumo_unidade": "g",
+      "consumo": "70 g"
+    },
+    {
+      "categoria": "Hortifruti",
+      "ids": [
+        "kiwi_golden"
+      ],
+      "nome": "Kiwi golden",
+      "comprar": "2 unidades",
+      "consumo_quantidade": 100.0,
+      "consumo_unidade": "g",
+      "consumo": "100 g"
+    },
+    {
+      "categoria": "Hortifruti",
+      "ids": [
+        "abacaxi"
+      ],
+      "nome": "Abacaxi descascado",
+      "comprar": "100 g",
+      "consumo_quantidade": 70.0,
+      "consumo_unidade": "g",
+      "consumo": "70 g"
+    },
+    {
+      "categoria": "Hortifruti",
+      "ids": [
+        "maca_fuji"
+      ],
+      "nome": "Maçã Fuji",
+      "comprar": "1 unidade",
+      "consumo_quantidade": 60.0,
+      "consumo_unidade": "g",
+      "consumo": "60 g"
+    },
+    {
+      "categoria": "Hortifruti",
+      "ids": [
+        "pera_williams"
+      ],
+      "nome": "Pera Williams",
+      "comprar": "1 unidade",
+      "consumo_quantidade": 70.0,
+      "consumo_unidade": "g",
+      "consumo": "70 g"
+    },
+    {
+      "categoria": "Hortifruti",
+      "ids": [
+        "morango"
+      ],
+      "nome": "Morango",
+      "comprar": "100 g",
+      "consumo_quantidade": 60.0,
+      "consumo_unidade": "g",
+      "consumo": "60 g"
+    },
+    {
+      "categoria": "Hortifruti",
+      "ids": [
+        "alface_crua"
+      ],
+      "nome": "Alface",
+      "comprar": "1 pé pequeno",
+      "consumo_quantidade": 60.0,
+      "consumo_unidade": "g",
+      "consumo": "60 g"
+    },
+    {
+      "categoria": "Hortifruti",
+      "ids": [
+        "agriao_cru"
+      ],
+      "nome": "Agrião",
+      "comprar": "1 maço pequeno",
+      "consumo_quantidade": 80.0,
+      "consumo_unidade": "g",
+      "consumo": "80 g"
+    },
+    {
+      "categoria": "Hortifruti",
+      "ids": [
+        "escarola_crua"
+      ],
+      "nome": "Escarola",
+      "comprar": "1 pé pequeno",
+      "consumo_quantidade": 80.0,
+      "consumo_unidade": "g",
+      "consumo": "80 g"
+    },
+    {
+      "categoria": "Hortifruti",
+      "ids": [
+        "mandioquinha_cozida"
+      ],
+      "nome": "Mandioquinha crua, com casca",
+      "comprar": "300 g (0,3 kg)",
+      "consumo_quantidade": 230.0,
+      "consumo_unidade": "g",
+      "consumo": "230 g"
+    },
+    {
+      "categoria": "Hortifruti",
+      "ids": [
+        "cenoura_cozida"
+      ],
+      "nome": "Cenoura crua, com casca",
+      "comprar": "200 g (0,2 kg)",
+      "consumo_quantidade": 150.0,
+      "consumo_unidade": "g",
+      "consumo": "150 g"
+    },
+    {
+      "categoria": "Hortifruti",
+      "ids": [
+        "brocolis_cozido"
+      ],
+      "nome": "Brócolis cru",
+      "comprar": "400 g (0,4 kg)",
+      "consumo_quantidade": 280.0,
+      "consumo_unidade": "g",
+      "consumo": "280 g"
+    },
+    {
+      "categoria": "Hortifruti",
+      "ids": [
+        "couve_flor_cozida"
+      ],
+      "nome": "Couve-flor crua (porção)",
+      "comprar": "100 g",
+      "consumo_quantidade": 55.0,
+      "consumo_unidade": "g",
+      "consumo": "55 g"
+    },
+    {
+      "categoria": "Hortifruti",
+      "ids": [
+        "espinafre_cozido"
+      ],
+      "nome": "Espinafre fresco",
+      "comprar": "300 g (0,3 kg)",
+      "consumo_quantidade": 120.0,
+      "consumo_unidade": "g",
+      "consumo": "120 g"
+    },
+    {
+      "categoria": "Carnes e ovos",
+      "ids": [
+        "frango_peito_grelhado"
+      ],
+      "nome": "Peito de frango cru, sem pele",
+      "comprar": "250 g (0,25 kg)",
+      "consumo_quantidade": 150.0,
+      "consumo_unidade": "g",
+      "consumo": "150 g"
+    },
+    {
+      "categoria": "Carnes e ovos",
+      "ids": [
+        "patinho_grelhado"
+      ],
+      "nome": "Patinho cru, sem gordura",
+      "comprar": "150 g",
+      "consumo_quantidade": 100.0,
+      "consumo_unidade": "g",
+      "consumo": "100 g"
+    },
+    {
+      "categoria": "Carnes e ovos",
+      "ids": [
+        "musculo_cozido"
+      ],
+      "nome": "Músculo cru, sem gordura",
+      "comprar": "50 g",
+      "consumo_quantidade": 25.0,
+      "consumo_unidade": "g",
+      "consumo": "25 g"
+    },
+    {
+      "categoria": "Carnes e ovos",
+      "ids": [
+        "tilapia_grelhada"
+      ],
+      "nome": "Filé de tilápia cru",
+      "comprar": "150 g",
+      "consumo_quantidade": 110.0,
+      "consumo_unidade": "g",
+      "consumo": "110 g"
+    },
+    {
+      "categoria": "Carnes e ovos",
+      "ids": [
+        "ovo_inteiro_cozido",
+        "ovo_inteiro_frito_sem_oleo_extra"
+      ],
+      "nome": "Ovos",
+      "comprar": "4 unidades",
+      "consumo_quantidade": 200.0,
+      "consumo_unidade": "g",
+      "consumo": "200 g"
+    },
+    {
+      "categoria": "Leites e derivados",
+      "ids": [
+        "leite_desnatado"
+      ],
+      "nome": "Leite desnatado UHT",
+      "comprar": "1 L",
+      "consumo_quantidade": 770.0,
+      "consumo_unidade": "mL",
+      "consumo": "770 mL"
+    },
+    {
+      "categoria": "Leites e derivados",
+      "ids": [
+        "iogurte_natural_desnatado"
+      ],
+      "nome": "Iogurte natural desnatado",
+      "comprar": "800 g (0,8 kg)",
+      "consumo_quantidade": 785.0,
+      "consumo_unidade": "g",
+      "consumo": "785 g"
+    },
+    {
+      "categoria": "Leites e derivados",
+      "ids": [
+        "ninho_adulto_semidesnatado"
+      ],
+      "nome": "Ninho Adulto Semidesnatado",
+      "comprar": "200 g (0,2 kg)",
+      "consumo_quantidade": 175.0,
+      "consumo_unidade": "g",
+      "consumo": "175 g"
+    },
+    {
+      "categoria": "Leites e derivados",
+      "ids": [
+        "manteiga_leco"
+      ],
+      "nome": "Manteiga Leco",
+      "comprar": "25 g",
+      "consumo_quantidade": 21.0,
+      "consumo_unidade": "g",
+      "consumo": "21 g"
+    },
+    {
+      "categoria": "Leites e derivados",
+      "ids": [
+        "ricota"
+      ],
+      "nome": "Ricota",
+      "comprar": "100 g",
+      "consumo_quantidade": 65.0,
+      "consumo_unidade": "g",
+      "consumo": "65 g"
+    },
+    {
+      "categoria": "Leites e derivados",
+      "ids": [
+        "parmesao"
+      ],
+      "nome": "Parmesão ralado",
+      "comprar": "20 g",
+      "consumo_quantidade": 10.0,
+      "consumo_unidade": "g",
+      "consumo": "10 g"
+    },
+    {
+      "categoria": "Padaria e mercearia",
+      "ids": [
+        "pao_frances"
+      ],
+      "nome": "Pão francês",
+      "comprar": "700 g (0,7 kg)",
+      "consumo_quantidade": 660.0,
+      "consumo_unidade": "g",
+      "consumo": "660 g"
+    },
+    {
+      "categoria": "Padaria e mercearia",
+      "ids": [
+        "nescau_po"
+      ],
+      "nome": "NESCAU tradicional",
+      "comprar": "150 g",
+      "consumo_quantidade": 140.0,
+      "consumo_unidade": "g",
+      "consumo": "140 g"
+    },
+    {
+      "categoria": "Padaria e mercearia",
+      "ids": [
+        "arroz_branco_cozido"
+      ],
+      "nome": "Arroz branco cru",
+      "comprar": "150 g",
+      "consumo_quantidade": 325.0,
+      "consumo_unidade": "g",
+      "consumo": "325 g"
+    },
+    {
+      "categoria": "Padaria e mercearia",
+      "ids": [
+        "feijao_preto_caldo"
+      ],
+      "nome": "Feijão preto seco",
+      "comprar": "250 g (0,25 kg)",
+      "consumo_quantidade": 570.0,
+      "consumo_unidade": "g",
+      "consumo": "570 g"
+    },
+    {
+      "categoria": "Padaria e mercearia",
+      "ids": [
+        "lentilha_cozida"
+      ],
+      "nome": "Lentilha seca",
+      "comprar": "75 g",
+      "consumo_quantidade": 155.0,
+      "consumo_unidade": "g",
+      "consumo": "155 g"
+    },
+    {
+      "categoria": "Padaria e mercearia",
+      "ids": [
+        "grao_bico_cozido"
+      ],
+      "nome": "Grão-de-bico seco",
+      "comprar": "40 g",
+      "consumo_quantidade": 70.0,
+      "consumo_unidade": "g",
+      "consumo": "70 g"
+    },
+    {
+      "categoria": "Padaria e mercearia",
+      "ids": [
+        "ervilha_partida_cozida"
+      ],
+      "nome": "Ervilha seca partida",
+      "comprar": "20 g",
+      "consumo_quantidade": 30.0,
+      "consumo_unidade": "g",
+      "consumo": "30 g"
+    },
+    {
+      "categoria": "Padaria e mercearia",
+      "ids": [
+        "macarrao_cozido"
+      ],
+      "nome": "Macarrão seco",
+      "comprar": "40 g",
+      "consumo_quantidade": 80.0,
+      "consumo_unidade": "g",
+      "consumo": "80 g"
+    },
+    {
+      "categoria": "Padaria e mercearia",
+      "ids": [
+        "farofa_yoki_cebola"
+      ],
+      "nome": "Farofa Yoki com cebola",
+      "comprar": "60 g",
+      "consumo_quantidade": 60.0,
+      "consumo_unidade": "g",
+      "consumo": "60 g"
+    },
+    {
+      "categoria": "Padaria e mercearia",
+      "ids": [
+        "germen_trigo_torrado"
+      ],
+      "nome": "Gérmen de trigo torrado",
+      "comprar": "110 g",
+      "consumo_quantidade": 105.0,
+      "consumo_unidade": "g",
+      "consumo": "105 g"
+    },
+    {
+      "categoria": "Padaria e mercearia",
+      "ids": [
+        "farinha_aveia_quaker"
+      ],
+      "nome": "Farinha de aveia integral Quaker",
+      "comprar": "100 g",
+      "consumo_quantidade": 90.0,
+      "consumo_unidade": "g",
+      "consumo": "90 g"
+    },
+    {
+      "categoria": "Padaria e mercearia",
+      "ids": [
+        "amendoa"
+      ],
+      "nome": "Amêndoa laminada ou farinha, sem sal",
+      "comprar": "50 g",
+      "consumo_quantidade": 45.0,
+      "consumo_unidade": "g",
+      "consumo": "45 g"
+    },
+    {
+      "categoria": "Óleos",
+      "ids": [
+        "oleo_soja"
+      ],
+      "nome": "Óleo de soja",
+      "comprar": "30 g",
+      "consumo_quantidade": 28.0,
+      "consumo_unidade": "g",
+      "consumo": "28 g"
+    },
+    {
+      "categoria": "Óleos",
+      "ids": [
+        "tcm_puro"
+      ],
+      "nome": "MCT Vitafor puro (C8/C10)",
+      "comprar": "70 mL",
+      "consumo_quantidade": 63.0,
+      "consumo_unidade": "mL",
+      "consumo": "63 mL"
+    }
+  ],
+  "notas": [
+    "Para 1 pessoa, durante 7 dias. Desconte o que já tiver em casa; não é preciso comprar um pacote novo de cada produto.",
+    "Comprar/reservar: sugestões arredondadas. Valores em cru/seco são estimativas de planejamento; perdas e rendimento variam com limpeza e preparo. Confira o peso pronto necessário.",
+    "Consumo no cardápio: total semanal pronto para comer, ou como vendido; frutas sem casca/caroços quando aplicável. Feijão inclui grãos e caldo, na proporção do cardápio.",
+    "Frutas e folhas variam de tamanho. Bananas: reservar pelo menos 480 g sem casca; kiwi: 100 g sem casca. Maçã e pera são usadas parcialmente; mantenha as porções do cardápio.",
+    "Pão: 700 g equivalem a cerca de 14 pães de 50 g. Iogurte: 5 potes de 170 g fornecem 850 g, caso essa seja a embalagem disponível.",
+    "Água do preparo (140 mL/semana) fica fora das compras. Sal e temperos sem quantidade definida no cardápio não foram estimados."
+  ]
+}
